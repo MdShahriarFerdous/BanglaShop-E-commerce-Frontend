@@ -1,0 +1,18 @@
+ul li {
+	font-size: 1.2rem;
+	cursor: pointer;
+	border-radius: 8px;
+	color: rgb(27, 27, 27);
+}
+ul li.list:hover {
+	background-color: #b815a7;
+}
+.navlink-hover {
+	padding: 8px;
+}
+.navlink-hover:hover {
+	color: white;
+}
+ul li.active-menu-item {
+	background-color: #b815a7;
+}
